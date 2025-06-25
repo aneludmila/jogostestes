@@ -1,40 +1,27 @@
-# Ping Pong Game
+#  Mini Games by Ane
 
-Este é um joguinho simples e viciante de **Ping Pong**, desenvolvido em HTML, CSS e JavaScript puro! 🎮  
-Um projeto criado com o objetivo de treinar lógica, manipulação de canvas e movimentação baseada em eventos.
-
----
-
-## Como Jogar
-
-- Use o **mouse** para mover sua raquete (lado esquerdo).
-- O lado direito é controlado pela IA.
-- O objetivo é simples: **não deixe a bolinha passar** do seu lado!
+Bem-vinde ao repositório **Mini Games by Ane**, uma coleção de joguinhos criados com criatividade,  design divertido e  lógica afiada!  
+Essa coleção foi feita com muito carinho para praticar programação de forma leve e lúdica, explorando diferentes linguagens, frameworks e estilos de jogo.
 
 ---
 
-## Tecnologias Usadas
+## Jogos Disponíveis
 
-- `HTML5`
-- `CSS3`
-- `JavaScript`
-- `<canvas>` para renderização gráfica em tempo real
+| Nome do Jogo   | Descrição                                                    | Linguagem/Framework |
+|----------------|--------------------------------------------------------------|---------------------|
+| `Ping Pong`    | Joguinho clássico no estilo retrô com IA simples             | HTML, CSS, JS       |
+| `Quiz Bíblico` | Responda perguntas sobre a Bíblia                            | Flutter / Web       |
 
+
+## Tecnologias Utilizadas
+
+- HTML5 + CSS3
+- JavaScript puro e com libs (React, etc.)
+- Flutter (para versões mobile/web)
 ---
 
-## O que foi trabalhado
+## Objetivo do Projeto
 
-- Animações com `requestAnimationFrame`
-- Colisão entre objetos (bola x raquete)
-- Movimentação com eventos (`mousemove`)
-- Reset de estado (quando a bola sai da tela)
+O objetivo principal é praticar lógica de programação, estruturas de dados e criação de interfaces interativas de forma divertida.  
+Além disso, cada jogo traz uma lição diferente — desde controle de estado até manipulação de DOM ou animações em tela.
 
----
-
-## Estrutura do Projeto
-
-```bash
-📁 ping-pong-game/
-├── index.html       # Estrutura básica da página
-├── style.css        # Estilização com fundo escuro retrô 
-└── game.js          # Toda a lógica do jogo
