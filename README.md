@@ -1,11 +1,11 @@
-# 🏓 Ping Pong Game — Feito por Ane 💻✨
+# Ping Pong Game
 
 Este é um joguinho simples e viciante de **Ping Pong**, desenvolvido em HTML, CSS e JavaScript puro! 🎮  
 Um projeto criado com o objetivo de treinar lógica, manipulação de canvas e movimentação baseada em eventos.
 
 ---
 
-## 🎮 Como Jogar
+## Como Jogar
 
 - Use o **mouse** para mover sua raquete (lado esquerdo).
 - O lado direito é controlado pela IA.
@@ -13,7 +13,7 @@ Um projeto criado com o objetivo de treinar lógica, manipulação de canvas e m
 
 ---
 
-## 🖥️ Tecnologias Usadas
+## Tecnologias Usadas
 
 - `HTML5`
 - `CSS3`
@@ -22,7 +22,7 @@ Um projeto criado com o objetivo de treinar lógica, manipulação de canvas e m
 
 ---
 
-## 🧠 O que foi trabalhado
+## O que foi trabalhado
 
 - Animações com `requestAnimationFrame`
 - Colisão entre objetos (bola x raquete)
@@ -31,10 +31,10 @@ Um projeto criado com o objetivo de treinar lógica, manipulação de canvas e m
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```bash
 📁 ping-pong-game/
 ├── index.html       # Estrutura básica da página
-├── style.css        # Estilização com fundo escuro retrô 💅
+├── style.css        # Estilização com fundo escuro retrô 
 └── game.js          # Toda a lógica do jogo
